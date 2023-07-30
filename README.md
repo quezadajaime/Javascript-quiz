@@ -26,7 +26,7 @@ GitHub
 https://github.com/quezadajaime/Javascript-quiz.git
 ------------------------------------------------------
 Website
-https://quezadajaime.github.io/Web-Javascript-quiz/
+https://quezadajaime.github.io/Javascript-quiz/
 
 
 ## Usage
